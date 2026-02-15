@@ -26,7 +26,7 @@ def servicio_descuento():
         "precio_original": precio,
         "descuento_aplicado": descuento,
         "precio_final": resultado,
-        "mensaje": "¡Guardado en base de datos!"
+        "mensaje": "¡Guardado en base de datos...!"
     })
 
 if __name__ == '__main__':
